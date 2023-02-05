@@ -8,6 +8,8 @@
     1.Open Terminal
   
     2.git clone https://github.com/Mrblackhat80/PortScanner.git
+    
+    3.cd PortScanner
   
     3.python3 PortScanner.py
   
