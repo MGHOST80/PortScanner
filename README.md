@@ -5,11 +5,11 @@
 
 ### How to install This Tool and How to run this Tool
   
-  1.Open Terminal
+    1.Open Terminal
   
-  2.git clone https://github.com/Mrblackhat80/PortScanner.git
+    2.git clone https://github.com/Mrblackhat80/PortScanner.git
   
-  3.python3 PortScanner.py
+    3.python3 PortScanner.py
   
   
 ![Screenshot from 2023-02-05 18-20-45](https://user-images.githubusercontent.com/123051087/216819639-df94942d-ab1b-4fc7-9c19-39420a9996c5.png)
