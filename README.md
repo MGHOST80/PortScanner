@@ -4,9 +4,9 @@
 
 
 ### How to install This Tool and How to run this Tool
-    1. pip3 install scapy
+    1.Open Terminal
     
-    2.Open Terminal
+    2. pip3 install scapy
   
     3.git clone https://github.com/Mrblackhat80/PortScanner.git
     
