@@ -2,11 +2,14 @@ import scapy.all as scapy
 import threading
 import re
 import time
-import pyfiglet
 
-#Printing the ASCII art
-text=pyfiglet.figlet_format("Mr.Blackhat")
-print(text)
+print("""
+ __  __      ____  _            _    _           _   
+|  \/  |_ __| __ )| | __ _  ___| | _| |__   __ _| |_ 
+| |\/| | '__|  _ \| |/ _` |/ __| |/ / '_ \ / _` | __|
+| |  | | | _| |_) | | (_| | (__|   <| | | | (_| | |_ 
+|_|  |_|_|(_)____/|_|\__,_|\___|_|\_\_| |_|\__,_|\__|
+""")
 
 def scan_ports(ip):
     #Record start time of scan
