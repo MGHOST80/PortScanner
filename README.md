@@ -12,7 +12,7 @@
     
     4.cd PortScanner
   
-    5.python3 PortScanner.py
+    5.python PortScanner.py
   
   
 ![Screenshot from 2023-02-05 18-20-45](https://user-images.githubusercontent.com/123051087/216819639-df94942d-ab1b-4fc7-9c19-39420a9996c5.png)
